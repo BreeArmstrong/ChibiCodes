@@ -75,12 +75,14 @@ h3 {
 
 /* Key Points*/
 #keys {
-    padding: 5% 15%;
+    padding: 5% 13%;
     position: relative;
     z-index: 1;
     background: white;
 }
-
+#keys .row{
+    padding-right: 3em;
+}
 .icon {
     padding-bottom: 1rem;
     color: #555555;
@@ -136,9 +138,11 @@ h3 {
     padding: 100px;
     text-align: center;
 }
+#pricing .row{
+    padding-right: 3em;
+}
 .pricing-col {
     padding: 3% 2%;
-
 }
 .card-header {
     background-color: pink;
@@ -153,8 +157,9 @@ h3 {
 
 }
 
-#cta h3 {
+.cta-header {
     font-size: 2rem;
+    line-height: 1;
 }
 #cta .btn {
 }
