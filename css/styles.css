@@ -69,6 +69,16 @@ h3 {
     max-width: 70%;
     position: absolute;
 }
+/*Media Query for phone*/
+
+@media (max-width: 1020px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+    }
+}
 
 /* Key Points*/
 #keys {
@@ -142,6 +152,9 @@ h3 {
     color: #555555;
 }
 
+#footer{
+    text-align: center;
+}
 .slogan {
     font-size: small;
 }
