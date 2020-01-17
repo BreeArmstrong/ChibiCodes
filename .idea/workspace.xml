@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67d715be-56a4-434d-be3d-c0a598fd0938" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="33527" />
+    <option name="idleThresholdMs" value="30000" />
+    <option name="autoCountIdleSeconds" value="20" />
+  </component>
+  <component name="ProjectId" id="1WU46xBb4naFKgHSFvOgiVU1c8K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brianna\projects\ChibiBree-BootStrap" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d715be-56a4-434d-be3d-c0a598fd0938" name="Default Changelist" comment="" />
+      <created>1579190667808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579190667808</updated>
+      <workItem from="1579190669902" duration="44299000" />
+      <workItem from="1579252830378" duration="2498000" />
+      <workItem from="1579283038304" duration="1354000" />
+      <workItem from="1579286002999" duration="496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="819" y="273" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579285930337">
+      <screen x="0" y="0" width="1558" height="1080" />
+    </state>
+    <state x="819" y="273" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1558.1080@0.0.1558.1080" timestamp="1579285930337" />
+    <state x="340" y="105" key="SettingsEditor" timestamp="1579249516381">
+      <screen x="0" y="0" width="1558" height="1080" />
+    </state>
+    <state x="340" y="105" key="SettingsEditor/0.0.1558.1080@0.0.1558.1080" timestamp="1579249516381" />
+    <state x="868" y="503" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579211305169">
+      <screen x="0" y="0" width="1558" height="1080" />
+    </state>
+    <state x="868" y="503" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1558.1080@0.0.1558.1080" timestamp="1579211305169" />
+  </component>
+</project>

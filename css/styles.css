@@ -1,0 +1,148 @@
+
+body{
+    font-family:'Source Sans Pro', sans-serif;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+h1 {
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #555555;
+}
+code {
+    font-family:'Ubuntu Mono-bold', monospace;
+    font-weight: 900;
+    color: #9a6cfa;
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700;
+}
+
+/*Navigation*/
+.container-fluid{
+    padding: 3em 5em 6%;
+}
+
+#title {
+    background-color: pink;
+}
+
+.navbar-brand{
+    font-family:'Ubuntu Mono-bold', monospace;
+    font-size: 2.0rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family:'Ubuntu Mono', monospace;
+}
+
+/*Body*/
+
+.row{
+    padding-top: 4.5rem;
+    padding-left: 4.5rem;
+}
+
+.btn {
+    font-family:'Ubuntu Mono-bold', monospace;
+}
+.download-button {
+    margin: 5% 1% 5% 0%;
+}
+.anchor-phone {
+    max-width: 70%;
+    position: absolute;
+}
+
+/* Key Points*/
+#keys {
+    padding: 5% 15%;
+    position: relative;
+    z-index: 1;
+    background: white;
+}
+
+.icon {
+    padding-bottom: 1rem;
+    color: #555555;
+}
+.key-points {
+    text-align: center;
+}
+.icon:hover {
+    color: pink;
+}
+
+
+/*About Carousel*/
+#about-me {
+    padding: 5% 15%;
+    text-align: center;
+    background-color: pink;
+    color: #555555;
+}
+.doggo {
+    border-radius: 20%;
+    max-height: 10em;
+    margin: 20px;
+}
+.carousel-item {
+    padding: 5% 15%;
+}
+
+#languages {
+    background-color: pink;
+    text-align: center;
+    color: #555555;
+    padding-bottom: 5%;
+}
+#languages p {
+    color: #555555;
+    font-size: larger;
+    margin-bottom: 3em;
+
+}
+.lang {
+    margin: 0 3% 1em;
+    display: inline-block;
+}
+
+.lang:hover {
+    color: #9a6cfa;
+    transform: scale(1.5);
+}
+
+/*Payment*/
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.pricing-col {
+    padding: 3% 2%;
+
+}
+.card-header {
+    background-color: pink;
+    color: #555555;
+}
+
+.slogan {
+    font-size: small;
+}
