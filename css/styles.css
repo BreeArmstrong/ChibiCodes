@@ -74,6 +74,7 @@ h3 {
 @media (max-width: 1020px) {
     #title {
         text-align: center;
+        padding-bottom: 6%;
     }
     .title-image {
         position: static;
