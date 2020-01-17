@@ -145,12 +145,30 @@ h3 {
     color: #555555;
 }
 
+/*Call to Action*/
+#cta {
+    background: pink;
+    text-align: center;
+    padding-top: 3%;
+
+}
+
+#cta h3 {
+    font-size: 2rem;
+}
+#cta .btn {
+}
+
+/*Footer*/
 #footer{
+    padding: 5% 15%;
+    background: white;
     text-align: center;
 }
 .slogan {
     font-size: small;
 }
+
 @media (max-width: 1020px) {
     #title {
         text-align: center;
