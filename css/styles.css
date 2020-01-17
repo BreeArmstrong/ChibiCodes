@@ -181,4 +181,13 @@ h3 {
     .title-image {
         position: static;
     }
+    #title .row {
+        padding-right: 3em;
+    }
+    #keys .row{
+        padding-right: 3em;
+    }
+    #cta {
+        padding-left: 3em;
+    }
 }
