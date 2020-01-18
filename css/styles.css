@@ -110,6 +110,11 @@ code {
 .carousel-item {
     padding: 5% 15%;
 }
+.about-text{
+
+}
+
+/*Languages Section*/
 #languages {
     background-color: pink;
     text-align: center;
@@ -148,13 +153,15 @@ code {
     background-color: pink;
     color: #555555;
 }
+.price-text{
+
+}
 
 /*Call to Action*/
 #cta {
     background: pink;
     text-align: center;
     padding-top: 3%;
-
 }
 
 .cta-header {
